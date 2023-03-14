@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623551904244",
+    "project_id": "mynotes-by-pratik",
+    "storage_bucket": "mynotes-by-pratik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623551904244:android:a0cb3885a63a8d51cde1a1",
+        "android_client_info": {
+          "package_name": "com.achievers.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623551904244-j66clr20caq4hoj8o0p1o1ufg90q8ej0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4xYkD8O2cHtvJJJoVjq3cj76PNQ4o8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623551904244-j66clr20caq4hoj8o0p1o1ufg90q8ej0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
